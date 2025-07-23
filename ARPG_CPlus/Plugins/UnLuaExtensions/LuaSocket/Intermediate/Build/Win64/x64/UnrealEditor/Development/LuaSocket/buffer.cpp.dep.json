@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\source\\src\\buffer.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ugit\\sourceenergy\\arpg_cplus\\intermediate\\build\\win64\\x64\\arpg_cpluseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasocket\\definitions.luasocket.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\source\\src\\luasocket.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unlua\\source\\unlua\\public\\lua.hpp",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lua.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\luaconf.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lualib.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unlua\\source\\thirdparty\\lua\\lua-5.4.3\\src\\lauxlib.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\source\\src\\buffer.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\source\\src\\io.h",
+            "e:\\ugit\\sourceenergy\\arpg_cplus\\plugins\\unluaextensions\\luasocket\\source\\src\\timeout.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

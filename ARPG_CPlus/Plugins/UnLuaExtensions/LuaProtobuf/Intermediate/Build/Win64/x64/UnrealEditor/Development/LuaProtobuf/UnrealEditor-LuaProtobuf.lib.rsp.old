@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaProtobuf.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\PCH.LuaProtobuf.h.obj"
+"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\LuaProtobufModule.cpp.obj"
+"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\pb.cpp.obj"
+"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\PerModuleInline.gen.cpp.obj"
+"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\Default.rc2.res"
+/OUT:"E:\UGit\UnLua_v2.3.6_ue5.6.0\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaProtobuf\UnrealEditor-LuaProtobuf.lib"
